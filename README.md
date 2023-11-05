@@ -1,4 +1,3 @@
-Certainly! Here's an example README file for a Snake Xenzia game Python project:
 
 # Snake Xenzia Game
 
